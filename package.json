@@ -1,0 +1,21 @@
+{
+  "name": "Dictation Repro",
+  "author": "Christoph Bartschat",
+  "version": "1.0.0",
+  "pebble": {
+    "displayName": "Dictation Repro",
+    "uuid": "babde31a-591d-43df-a1fc-132a747ce627",
+    "sdkVersion": "3",
+    "enableMultiJS": true,
+    "targetPlatforms": [
+      "emery"
+    ],
+    "watchapp": {
+      "watchface": false
+    },
+    "messageKeys": [],
+    "resources": {
+      "media": []
+    }
+  }
+}
